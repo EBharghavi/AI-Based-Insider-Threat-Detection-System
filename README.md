@@ -1,6 +1,6 @@
 # AI Insider Threat Detection System
 
-## 📌 Project Overview
+## Project Overview
 
 The AI-Based Insider Threat Detection System is a cybersecurity solution that uses Machine Learning to detect suspicious employee behavior inside an organization.
 
