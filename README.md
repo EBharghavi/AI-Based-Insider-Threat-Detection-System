@@ -33,7 +33,7 @@ This project aims to build an AI-driven system that learns normal employee behav
 
 ## Project Structure
 
-
+```
 AI_Insider_Threat_Detection/
 │
 ├── data/
@@ -55,6 +55,9 @@ AI_Insider_Threat_Detection/
 │
 ├── requirements.txt
 ├── README.md
+
+```
+---
 ## Features
 - Behavioral anomaly detection
 - Threat classification
@@ -76,12 +79,16 @@ AI_Insider_Threat_Detection/
 ## How to Run
 
 1. Install dependencies
-   pip install -r requirements.txt
+   ```pip install -r requirements.txt```
 
 2. Train model
+   ```
    cd src
-   python train_model.py
+   python train_model.py```
 
 3. Run dashboard
+   ```
    cd ../app
-   streamlit run app.py
+   streamlit run app.pyv
+   ```
+   ---
