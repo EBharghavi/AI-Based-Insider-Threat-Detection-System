@@ -81,12 +81,15 @@ AI_Insider_Threat_Detection/
 1. Install dependencies
    ```
    pip install -r requirements.txt
+   
    ```
 
 3. Train model
    ```
    cd src
-   python train_model.py```
+   python train_model.py
+
+   ```
 
 4. Run dashboard
    ```
